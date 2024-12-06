@@ -31,6 +31,8 @@
 
 ---
 
+⭕ _Note: Make sure to run these from the sdks subdirectory if starting from the cloned repo._
+
 - `git clone https://github.com/Azure/azure-iot-sdk-c.git`
 - `cd azure-iot-sdk-c`
 - `git submodule update --init --recursive`
