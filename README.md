@@ -21,8 +21,11 @@
 
 ---
 
+⭕ _Note: The commands for making the project directory and the sdks subdirectory are not needed if cloning the repo._
+
 - `mkdir <project_name> && cd <project_name>`
-- `mkdir sdks && cd sdks`
+- `mkdir sdks`
+- `cd sdks`
 
 ### Clone Azure IoT C SDK Repository 📦
 
