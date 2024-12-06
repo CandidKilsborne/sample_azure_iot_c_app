@@ -1,5 +1,4 @@
 cmake_minimum_required(VERSION 3.10)
-cmake_minimum_required(VERSION 3.10)
 project(AzureIoTHub_Device_Simulation)
 
 set(CMAKE_C_STANDARD 99)
